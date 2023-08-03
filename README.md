@@ -1,5 +1,5 @@
-# DEBJIT SARKAR:
-Hey there! I'm a aspiring software developer who's totally into Flutter, and I can also whip up some killer tunes as a music producer. When it comes to coding, I am quite good in crafting sleek and dynamic apps using Flutter's awesome framework. I love the thrill of bringing ideas to life through clean code and creating seamless user experiences. But hey, when I'm not coding, you'll find me lost in the world of music. I'm all about mixing beats, melodies, and rhythms to create mesmerising tracks that make people groove. So yeah, I'm a Flutter enthusiast by day and a music enthusiast by night!
+# DEBJIT SARKAR
+Hey there! I'm an aspiring software developer who's totally into Flutter, and I can also whip up some killer tunes as a music producer. When it comes to coding, I am pretty good at crafting sleek and dynamic apps using Flutter's excellent framework. I love the thrill of bringing ideas to life through clean code and creating seamless user experiences. But hey, when I'm not coding, you'll find me lost in the world of music. I'm mixing beats, melodies, and rhythms to create mesmerizing tracks that make people groove. So yeah, I'm a Flutter enthusiast by day and a music enthusiast by night!
 
 
 # 💻 Tech Stack:
@@ -14,5 +14,3 @@ Hey there! I'm a aspiring software developer who's totally into Flutter, and I c
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Debjit0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
